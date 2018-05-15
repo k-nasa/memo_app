@@ -3,6 +3,9 @@
 
 .packages
 .pub/
+.idea/
+ios/Flutter/Debug.xcconfig
+ios/Flutter/Release.xcconfig
 
 build/
 
