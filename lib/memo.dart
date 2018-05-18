@@ -3,5 +3,5 @@ class Memo {
   String content;
   bool finished;
 
-  Memo(this.id, this.content, this.finished);
+  Memo({this.id, this.content, this.finished});
 }
