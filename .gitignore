@@ -6,6 +6,7 @@
 .idea/
 ios/Flutter/Debug.xcconfig
 ios/Flutter/Release.xcconfig
+ios/Runner/
 
 build/
 
